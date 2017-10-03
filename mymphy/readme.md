@@ -28,6 +28,6 @@ The chart employs conventional margins and a number of D3 features:
 * [`d3.svg.axis`](https://github.com/d3/d3-axis/blob/master/README.md#_axis) - display axes
 
 ## License 
-MIT © Luisa Braga dos Santos
+[GNU General Public License](https://opensource.org/licenses/GPL-3.0), version 3 © Luisa Braga dos Santos
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Preview of the bar chart"

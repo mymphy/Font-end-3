@@ -1,7 +1,7 @@
 # My spent hours
 This is a simple bar chart visualizing my spent hours in a week time. This chart was based on [**Grouped Bar Chart**](https://bl.ocks.org/mbostock/3887051) by Mike Bostock.
 
-![Alt text](preview.png)
+->![Alt text](preview.png)<-
 
 
 

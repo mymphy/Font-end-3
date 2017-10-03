@@ -1,7 +1,7 @@
 # My spent hours
 This is a simple bar chart visualizing my spent hours in a week time. This chart was based on [**Grouped Bar Chart**](https://bl.ocks.org/mbostock/3887051) by Mike Bostock.
 
-![Preview of the bar chart][logo]
+![Alt text](preview.png)
 
 
 
@@ -29,5 +29,3 @@ The chart employs conventional margins and a number of D3 features:
 
 ## License 
 [GNU General Public License](https://opensource.org/licenses/GPL-3.0), version 3 © Luisa Braga dos Santos
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Preview of the bar chart"
